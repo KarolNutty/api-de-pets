@@ -1,0 +1,20 @@
+{
+    "name": "my-api-project",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "npx cucumber-js tests/features --require tests/steps"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "^8.0.0",
+        "playwright": "^1.52.0"
+    },
+    "dependencies": {
+        "@playwright/test": "^1.52.0",
+        "axios": "^1.8.4",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "my-api-project": "file:",
+        "sequelize": "^6.37.7",
+        "sqlite3": "^5.1.7"
+    }
+}
