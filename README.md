@@ -1,5 +1,3 @@
-Claro! Aqui está o `README.md` da sua API de Pets, já com todas as informações detalhadas e incluindo a menção ao repositório de testes automatizados. Você pode copiar e colar diretamente no arquivo `README.md` do seu repositório.
-
 # API de Pets
 
 Este repositório contém a **API de Pets** construída com **Node.js**, utilizando o framework **Express** e o banco de dados **SQLite**. A API permite realizar operações CRUD (Create, Read, Update, Delete) com dados de pets.
